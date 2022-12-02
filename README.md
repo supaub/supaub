@@ -5,6 +5,6 @@
 - 🔭 I’m currently working on Interstellar (https://github.com/interstellarnetwork/interstellar)
 - 🌱 I’m currently learning how to code well
 - 🤔 I’m looking for help with how to code good
-- 📫 How to reach me: Discord
+- 📫 How to reach me: Discord @ Quester#0378
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: imbubbo is hot
